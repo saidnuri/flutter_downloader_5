@@ -60,7 +60,7 @@ class _DemoAppState extends State<DemoApp> {
   @override
   void initState() {
     super.initState();
-    callAPI("Barış Manço");
+    callAPI("");
   }
 
   void _indir(videoTitle, index, id) async {
