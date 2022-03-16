@@ -45,6 +45,7 @@ dependencies:
   percent_indicator: ^4.0.0
   just_audio: ^0.9.20
   http: ^0.13.4
+  google_mobile_ads: ^1.1.0
  
  
 

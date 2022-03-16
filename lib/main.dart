@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:downloads_path_provider_28/downloads_path_provider_28.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_downloader_5/model.dart';
-
 import 'dart:async';
 import 'package:dio/dio.dart';
 import 'package:http/http.dart' as http;
